@@ -52,6 +52,9 @@ With specific event handler functions that can be added to the script:
 
 ![alt text](https://i.imgur.com/N0Nk8Ez.png)
 
+Example of Event Handler in the Code: 
+
+![alt text](https://i.imgur.com/FKsWEOK.png)
 
 
 
