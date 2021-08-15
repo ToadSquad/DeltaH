@@ -48,6 +48,11 @@ using $w("#ELEMENTID")
 
 ![alt text](https://i.imgur.com/O4oWHED.png)
 
+With specific event handler functions that can be added to the script:
+
+![alt text](https://i.imgur.com/N0Nk8Ez.png)
+
+
 
 
 
