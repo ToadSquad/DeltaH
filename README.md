@@ -38,4 +38,16 @@ Fixing the issue, the issue is either a user error for not following the guideli
 
 ![alt text](https://i.imgur.com/2JJ1ziM.png)
 
+Integrating components with Wix:
+
+Every component has an id that can be accessed
+
+![alt text](https://i.imgur.com/AHLUq7g.png)
+
+using $w("#ELEMENTID")
+
+![alt text](https://i.imgur.com/O4oWHED.png)
+
+
+
 
